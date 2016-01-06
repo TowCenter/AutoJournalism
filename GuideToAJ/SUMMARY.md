@@ -19,4 +19,3 @@
 * [Summary and Outlook](summary_and_outlook/README.md)
 * [Further Reading](further_reading/README.md)
 * [About the Author](about_the_author/README.md)
-* [Citations](citations/README.md)

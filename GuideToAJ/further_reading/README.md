@@ -27,5 +27,5 @@ Further Reading
 
  <b>For a discussion of the technology’s potentials and limitations, and an overview of software providers:</b> 
 
- > Konstantin Nicholas Dörr, “Mapping the Field of Algorithmic Journalism,” *Digital Journalism*, 3 November 2015, available at > <http://www.tandfonline.com/doi/abs/10.1080/21670811.2015.1096748?journalCode=rdij20>. 
+ > Konstantin Nicholas D<span>ö</span>rr, “Mapping the Field of Algorithmic Journalism,” *Digital Journalism*, 3 November 2015, > available at > <http://www.tandfonline.com/doi/abs/10.1080/21670811.2015.1096748?journalCode=rdij20>. 
 
